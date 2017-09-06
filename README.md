@@ -14,7 +14,7 @@ You can [download the plugin](https://teamcity.jetbrains.com/repository/download
 
 ## Configuration
 
-The plugin supports Kubernetes cluster images to start new pods with TeamCity build agent running in one of the containers. Plugin supports [official TeamCity Build Agent Docker image](https://hub.docker.com/r/jetbrains/teamcity-agent) out of the box. But you can use you own image as well.
+The plugin supports Kubernetes cluster images to start new pods with a TeamCity build agent running in one of the containers. The plugin supports the [official TeamCity Build Agent Docker image](https://hub.docker.com/r/jetbrains/teamcity-agent) out of the box. You can use your own image as well.
 
 ## License
 
